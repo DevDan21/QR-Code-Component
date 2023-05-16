@@ -1,0 +1,38 @@
+/* CSS STYLES */
+
+body {
+  font-family: "Outfit";
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.container {
+  background-color: white;
+  border-radius: 18px;
+  max-width: 375px;
+}
+
+.content {
+  padding: 15px;
+  color: hsl(218, 44%, 22%);
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+p {
+  font-size: 1.25rem;
+  opacity: 0.7;
+}
